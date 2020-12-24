@@ -34,6 +34,7 @@ To do:
 * Multi-user data, for each person define: name, photo, sex, photo, age, Height (cm), Weight (kg)
 * Filter by date
 * Graphics
+* Color recommendations
 * Export data to CSV or Excel
 
 
