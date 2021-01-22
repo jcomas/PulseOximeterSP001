@@ -26,16 +26,16 @@ Progress:
 * Get battery info :heavy_check_mark:
 * Get data sensors info :heavy_check_mark:
 * Record to database :heavy_check_mark:
+* Export data to CSV :heavy_check_mark:
+* Multi-language (english, spanish and catalan) :heavy_check_mark:
 
 
 To do:
 -----
-* Multi-language
-* Multi-user data, for each person define: name, photo, sex, photo, age, Height (cm), Weight (kg)
-* Filter by date
-* Graphics
 * Color recommendations
-* Export data to CSV or Excel
+* Filter by date
+* Multi-user data, for each person define: name, photo, sex, photo, age, Height (cm), Weight (kg)
+* Graphics
 
 
 Resources:
